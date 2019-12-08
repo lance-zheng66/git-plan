@@ -1,12 +1,13 @@
 ## 20191208学习计划
 
 * 锻炼30分钟
-* 查找Java中的一些常见概念，并整理成笔记
+* git 练习
+* Spring in Action 第一章阅读
+* Spring in Action 第一章知识结构的思维导图
 * 学习 Mybatis 中06文件夹中内容
 * 整理Mybatis 中06文件夹的内容整理成笔记
 * 把Mybatis 中06文件夹笔记做成思维导图
-* 完成Spring实战版第一章的阅读
-* 整理Mybatis前5章学习的笔记，
+* 整理Mybatis前5章学习的笔记
 * 把Mybatis前5章笔记整理成思维导图
 
 
