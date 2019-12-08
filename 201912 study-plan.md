@@ -1,14 +1,29 @@
+## 20191209学习计划
+
+- 锻炼30分钟
+- git 练习
+- Spring in Action 昨日笔记回顾
+  * 情景模拟
+  * 背诵
+- Spring in Action 第一章阅读
+- Spring in Action 第一章知识结构的思维导图
+- 学习 Mybatis 中06文件夹中内容
+- 整理Mybatis 中06文件夹的内容整理成笔记
+- 把Mybatis 中06文件夹笔记做成思维导图
+- 整理Mybatis前5章学习的笔记
+- 把Mybatis前5章笔记整理成思维导图
+
 ## 20191208学习计划
 
-* 锻炼30分钟
+* 锻炼30分钟-get
 * git 练习
-* Spring in Action 第一章阅读
-* Spring in Action 第一章知识结构的思维导图
-* 学习 Mybatis 中06文件夹中内容
-* 整理Mybatis 中06文件夹的内容整理成笔记
-* 把Mybatis 中06文件夹笔记做成思维导图
-* 整理Mybatis前5章学习的笔记
-* 把Mybatis前5章笔记整理成思维导图
+* Spring in Action 第一章阅读-get 
+* Spring in Action 第一章知识结构的思维导图-get
+* 学习 Mybatis 中06文件夹中内容-half
+* 整理Mybatis 中06文件夹的内容整理成笔记-half
+* 把Mybatis 中06文件夹笔记做成思维导图-half
+* 整理Mybatis前5章学习的笔记-half
+* 把Mybatis前5章笔记整理成思维导图-half
 
 
 
